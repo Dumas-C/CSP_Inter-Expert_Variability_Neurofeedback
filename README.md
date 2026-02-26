@@ -1,9 +1,9 @@
-# Expert Influence and Inter-Expert Variability in CSP-Based Neurofeedback
+# Inter-Expert Variability in Common Spatial Pattern Component Selection: Implication for Neurofeedback Applications
 
 ---
 This repository contains the code and supporting documents associated with the following manuscript:
 
-C. Dumas, C. Dussard, M.-C. Corsi*, N. George* (2026). Expert Influence and Inter-Expert Variability in CSP-Based Neurofeedback. 
+C. Dumas, C. Dussard, M.-C. Corsi*, N. George* (2026). Inter-Expert Variability in Common Spatial Pattern Component Selection: Implication for Neurofeedback Applications. 
 
 
 *co-last authors
