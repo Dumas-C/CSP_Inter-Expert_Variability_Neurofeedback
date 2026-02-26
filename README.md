@@ -22,11 +22,17 @@ C. Dumas, C. Dussard, M.-C. Corsi*, N. George* (2026). Inter-Expert Variability 
 ## Code
 <p align="justify">
 This repository contains:
-- the code used to perform the statistical analyses,
-- the scripts used to generate all figures presented in the manuscript,
-- and the anonymized responses to the expert questionnaire.
+</p>
 
-Computation and figures were performed with the following Python version: 3.12.7. In 'requirements.txt' a list of all the Python dependencies is proposed.
+<ul>
+  <li>the code used to perform the statistical analyses,</li>
+  <li>the scripts used to generate all figures presented in the manuscript,</li>
+  <li>and the anonymized responses to the expert questionnaire.</li>
+</ul>
+
+<p align="justify">
+Computation and figures were performed with Python 3.12.7.
+A complete list of dependencies is provided in <code>requirements.txt</code>.
 </p>
 
 ---
