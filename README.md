@@ -4,6 +4,8 @@
 This repository contains the code and supporting documents associated with the following manuscript:
 
 C. Dumas, C. Dussard, M.-C. Corsi*, N. George* (2026). Expert Influence and Inter-Expert Variability in CSP-Based Neurofeedback. 
+
+
 *co-last authors
  
 ---
