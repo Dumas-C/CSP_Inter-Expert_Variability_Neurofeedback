@@ -4,7 +4,7 @@
 This repository contains the code and supporting documents associated with the following manuscript:
 
 C. Dumas, C. Dussard, M.-C. Corsi*, N. George* (2026). Expert Influence and Inter-Expert Variability in CSP-Based Neurofeedback. 
-* co-last authors
+*co-last authors
  
 ---
 ## Authors:
@@ -43,4 +43,4 @@ Computation and figures were performed with the following Python version: 3.12.7
 ### Figure 3 - Influence of expert characteristics on agreement and confidence
 ![Fig. 3](./Figures/Figure3.png)
 
-*<p align="justify"> . Comparison of individual agreement with the consensus and mean confidence across three expert characteristics: background (BCI vs non-BCI), years of experience (< 5 vs ≥ 5 years), and CSP familiarity (none, limited, moderate/high). Category blocks are separated by vertical dotted lines. White dots represent individual expert data points. (A) Individual agreement, defined as the proportion of subjects for which an expert’s selection matched the consensus (modal choice). Violin plots show the distribution within each category; the central black line indicates the median. (B) Mean confidence per expert. Boxplots display the interquartile range (Q1–Q3), the median (central line), and whiskers extending to 1.5× IQR (outliers excluded).</p>*
+*<p align="justify"> Comparison of individual agreement with the consensus and mean confidence across three expert characteristics: background (BCI vs non-BCI), years of experience (< 5 vs ≥ 5 years), and CSP familiarity (none, limited, moderate/high). Category blocks are separated by vertical dotted lines. White dots represent individual expert data points. (A) Individual agreement, defined as the proportion of subjects for which an expert’s selection matched the consensus (modal choice). Violin plots show the distribution within each category; the central black line indicates the median. (B) Mean confidence per expert. Boxplots display the interquartile range (Q1–Q3), the median (central line), and whiskers extending to 1.5× IQR (outliers excluded).</p>*
