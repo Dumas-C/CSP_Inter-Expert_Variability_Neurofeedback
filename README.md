@@ -3,7 +3,7 @@
 ---
 This repository contains the code and supporting documents associated with the following manuscript:
 
-C. Dumas, C. Dussard, M.-C. Corsi*, N. George* (2026). Inter-Expert Variability in Common Spatial Pattern Component Selection: Implication for Neurofeedback Applications. 
+C. Dumas, C. Dussard, M.-C. Corsi*, N. George* (2026). Inter-Expert Variability in Common Spatial Pattern Component Selection: Implication for Neurofeedback Applications. Submitted to The 10th Graz BCI Conference 2026 (14–18 September 2026).
 
 
 *co-last authors
@@ -27,7 +27,6 @@ This repository contains:
 <ul>
   <li>the code used to perform the statistical analyses,</li>
   <li>the scripts used to generate all figures presented in the manuscript,</li>
-  <li>and the anonymized responses to the expert questionnaire.</li>
 </ul>
 
 <p align="justify">
@@ -51,4 +50,4 @@ A complete list of dependencies is provided in <code>requirements.txt</code>.
 ### Figure 3 - Influence of expert characteristics on agreement and confidence
 ![Fig. 3](./Figures/Figure3.png)
 
-*<p align="justify"> Comparison of individual agreement with the consensus and mean confidence across three expert characteristics: background (BCI vs non-BCI), years of experience (< 5 vs ≥ 5 years), and CSP familiarity (none, limited, moderate/high). Category blocks are separated by vertical dotted lines. White dots represent individual expert data points. (A) Individual agreement, defined as the proportion of subjects for which an expert’s selection matched the consensus (modal choice). Violin plots show the distribution within each category; the central black line indicates the median. (B) Mean confidence per expert. Boxplots display the interquartile range (Q1–Q3), the median (central line), and whiskers extending to 1.5× IQR (outliers excluded).</p>*
+*<p align="justify"> Influence of expert characteristics on their individual agreement and mean confidence. The individual expert agreement with the consensus (aka. modal CSP selection) and the mean confidence is compared across three expert characteristics: background (BCI vs. non-BCI, left plot in green), years of experience (< 5 vs. ≥ 5 years, middle plot in orange), and CSP familiarity (none, limited, moderate-to-high, right plot in blue). In each plot, white dots represent individual expert data points. (A) Individual expert agreement, defined as the proportion of subjects for whom an expert’s selected the consensus (aka. modal) CSP component. Violin plots show the distribution within each expert group; the central black line represents the median. (B) Mean confidence ratings of the experts. Boxplots display the interquartile range (Q1–Q3), the median (central black line), and whiskers extend to 1.5× IQR (with outliers excluded).</p>*

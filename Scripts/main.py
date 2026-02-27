@@ -66,7 +66,7 @@ def main():
     ####### ADDITIONNAL FIGURES #######
     # ---------------------------------
     if analysis == "Additionnal Figures":
-        from Paper_Figures_Additionnal import Make_Additional_Figures
+        from Paper_Figures_Additional import Make_Additional_Figures
         Make_Additional_Figures()
         
         
